@@ -276,31 +276,31 @@ The dashboard helps answer questions such as:
 
 ## Punctuality Overview
 
-![https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/020d6b404116351e1832a397bb36e912f33bbe8d/Images/01_Punctuality_Overview.png]
+![Punctuality Overview](https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/020d6b404116351e1832a397bb36e912f33bbe8d/Images/01_Punctuality_Overview.png)
 
 ---
 
 ## Mode Delay Analysis
 
-![Mode Delay Analysis](Screenshots/02_Mode_Delay_Analysis.png)
+![Mode Delay Analysis](https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/8a82a8a3df013641e73f6ab5ef8a194a8461c527/Images/02_Mode_Delay_Analysis.png)
 
 ---
 
 ## Area Deep Dive
 
-![Area Deep Dive](Screenshots/03_Area_Deep_Dive.png)
+![Area Deep Dive](https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/8a82a8a3df013641e73f6ab5ef8a194a8461c527/Images/03_Area_Deep_Dive.png)
 
 ---
 
 ## Top 100 Delay Investigation
 
-![Top 100 Delay Investigation](Screenshots/04_Top_100_Delay_Investigation.png)
+![Top 100 Delay Investigation](https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/8a82a8a3df013641e73f6ab5ef8a194a8461c527/Images/04_Top_100_Delay_Investigation.png)
 
 ---
 
 ## EV Charging Infrastructure
 
-![EV Charging Infrastructure](Screenshots/05_EV_Charging_Infrastructure.png)
+![EV Charging Infrastructure](https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/8a82a8a3df013641e73f6ab5ef8a194a8461c527/Images/05_EV_Charging_Infrastructure.png)
 
 ---
 
