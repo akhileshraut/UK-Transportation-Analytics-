@@ -276,7 +276,7 @@ The dashboard helps answer questions such as:
 
 ## Punctuality Overview
 
-![Punctuality Overview](Screenshots/01_Punctuality_Overview.png)
+![https://github.com/akhileshraut/UK-Transportation-Analytics-/blob/020d6b404116351e1832a397bb36e912f33bbe8d/Images/01_Punctuality_Overview.png]
 
 ---
 
